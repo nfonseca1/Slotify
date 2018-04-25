@@ -1,11 +1,6 @@
-<?php
-
-	if(isset($_POST['loginButton']))
-	{
-
-	}
-
- ?>
+<?php 
+	include("includes/handlers/loginHandler.php");
+?>
 
 <!DOCTYPE html>
 <html>
